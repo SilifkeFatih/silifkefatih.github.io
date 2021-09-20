@@ -1,1 +1,22 @@
-
+[
+    {
+    "yazi":"Etüt 1",
+    "baslangicsaat":"15:00",
+    "bitissaat":"15:40"
+    },
+    {
+        "yazi":"Tenefüs",
+        "baslangicsaat":"15:40",
+        "bitissaat":"16:00"
+    },
+    {
+    "yazi":"Etüt 2",
+    "baslangicsaat":"16:00",
+    "bitissaat":"16:40"
+    },
+    {
+    "yazi":"Etüt 1",
+    "baslangicsaat":"16:50",
+    "bitissaat":"17:30"
+    }
+]
