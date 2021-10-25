@@ -1,28 +1,27 @@
 [
     {
     "yazi":"Kalkış",
-    "baslangicsaat":"05:00",
-    "bitissaat":"05:25"
+    "baslangicsaat":"05:20",
+    "bitissaat":"05:45"
     },
     {
-        "yazi":"Sabah Namazı",
-        "baslangicsaat":"05:25",
-        "bitissaat":"05:40"
+        "yazi":"Hatim",
+        "baslangicsaat":"05:45",
+        "bitissaat":"06:00"
     },
     {
         "yazi":"Vazife",
-        "baslangicsaat":"05:40",
-        "bitissaat":"06:10"
+        "baslangicsaat":"06:00",
+        "bitissaat":"06:30"
     },
-
     {
-        "yazi":"Hatim",
-        "baslangicsaat":"06:10",
-        "bitissaat":"06:25"
-    },
+        "yazi":"Sabah Namazı",
+        "baslangicsaat":"06:30",
+        "bitissaat":"06:45"
+    },  
     {
         "yazi":"Sabah Uykusu",
-        "baslangicsaat":"06:25",
+        "baslangicsaat":"06:45",
         "bitissaat":"08:00"
     },   
      {
@@ -33,118 +32,128 @@
       {
         "yazi":"Kahvaltı",
         "baslangicsaat":"08:15",
-        "bitissaat":"08:40"
+        "bitissaat":"08:35"
     },
     {
         "yazi":"Temizlik",
-        "baslangicsaat":"08:40",
-        "bitissaat":"09:10"
+        "baslangicsaat":"08:35",
+        "bitissaat":"09:05"
     },  
       {
         "yazi":"Derse Hazırlık",
-        "baslangicsaat":"09:10",
-        "bitissaat":"09:30"
+        "baslangicsaat":"09:05",
+        "bitissaat":"09:20"
     },  
       {
         "yazi":"Dahili Ders-1",
-        "baslangicsaat":"09:30",
+        "baslangicsaat":"09:20",
+        "bitissaat":"10:10"
+    },  
+      {
+        "yazi":"Teneffüs",
+        "baslangicsaat":"10:10",
         "bitissaat":"10:20"
     },  
       {
-        "yazi":"Teneffüs(Duha Namazı)",
+        "yazi":"Dahili Ders-2",
         "baslangicsaat":"10:20",
-        "bitissaat":"10:30"
+        "bitissaat":"11:10"
     },  
       {
-        "yazi":"Dahili Ders-2",
-        "baslangicsaat":"10:30",
+        "yazi":"Teneffüs",
+        "baslangicsaat":"11:10",
         "bitissaat":"11:20"
     },  
       {
-        "yazi":"Teneffüs",
+        "yazi":"Okul Dersi-1",
         "baslangicsaat":"11:20",
-        "bitissaat":"11:30"
+        "bitissaat":"12:00"
     },  
       {
-        "yazi":"Okul Dersi-1",
-        "baslangicsaat":"11:30",
+        "yazi":"Teneffüs",
+        "baslangicsaat":"12:00",
         "bitissaat":"12:10"
     },  
       {
-        "yazi":"Teneffüs",
-        "baslangicsaat":"12:10",
-        "bitissaat":"12:20"
-    },  
-      {
         "yazi":"Okul Dersi-2",
-        "baslangicsaat":"12:20",
-        "bitissaat":"13:00"
-    }, 
-       {
-        "yazi":"Öğle Yemeği ve Ara",
-        "baslangicsaat":"13:00",
+        "baslangicsaat":"12:10",
         "bitissaat":"13:50"
     }, 
        {
+        "yazi":"Öğle Yemeği ve Ara",
+        "baslangicsaat":"12:50",
+        "bitissaat":"13:40"
+    }, 
+       {
         "yazi":"Namaza Hazırlık",
-        "baslangicsaat":"13:50",
-        "bitissaat":"14:00"
+        "baslangicsaat":"13:40",
+        "bitissaat":"13:50"
     },  
       {
         "yazi":"Öğle Namazı",
-        "baslangicsaat":"14:00",
+        "baslangicsaat":"13:50",
+        "bitissaat":"14:10"
+    },  
+      {
+        "yazi":"Teneffüs",
+        "baslangicsaat":"14:10",
         "bitissaat":"14:20"
     },  
       {
-        "yazi":"Teneffüs",
-        "baslangicsaat":"14:20",
-        "bitissaat":"14:30"
-    },  
-      {
         "yazi":"Okul Dersi-3",
-        "baslangicsaat":"14:30",
-        "bitissaat":"15:10"
+        "baslangicsaat":"14:20",
+        "bitissaat":"15:00"
     },  
       {
         "yazi":"Teneffüs",
-        "baslangicsaat":"15:10",
-        "bitissaat":"15:20"
+        "baslangicsaat":"15:00",
+        "bitissaat":"15:10"
     }, 
        {
         "yazi":"Okul Ders-4",
-        "baslangicsaat":"15:20",
-        "bitissaat":"16:00"
+        "baslangicsaat":"15:10",
+        "bitissaat":"15:50"
     },  
-      {
-        "yazi":"Teneffüs",
-        "baslangicsaat":"16:00",
-        "bitissaat":"16:10"
-    },  
-      {
-        "yazi":"Okul Dersi-5",
-        "baslangicsaat":"16:10",
-        "bitissaat":"16:50"
-    },  
-      {
+    {
         "yazi":"Namaza Hazırlık",
-        "baslangicsaat":"16:50",
-        "bitissaat":"17.00"
+        "baslangicsaat":"15:50",
+        "bitissaat":"16.00"
     }, 
        {
         "yazi":"İkindi Namazı",
-        "baslangicsaat":"17:00",
-        "bitissaat":"17:15"
-    },  
+        "baslangicsaat":"16:00",
+        "bitissaat":"16:10"
+    }, 
       {
         "yazi":"Teneffüs",
-        "baslangicsaat":"17:15",
-        "bitissaat":"17:30"
+        "baslangicsaat":"16:10",
+        "bitissaat":"16:20"
+    },  
+      {
+        "yazi":"Okul Dersi-5",
+        "baslangicsaat":"16:20",
+        "bitissaat":"17:00"
+    },   
+      {
+        "yazi":"Teneffüs",
+        "baslangicsaat":"17:00",
+        "bitissaat":"17:10"
     },  
       {
         "yazi":"Okul Dersi-6",
-        "baslangicsaat":"17:30",
-        "bitissaat":"18:10"
+        "baslangicsaat":"17:10",
+        "bitissaat":"17:50"
     },  
+      {
+        "yazi":"Namaza Hazırlık",
+        "baslangicsaat":"17:50",
+        "bitissaat":"18:00"
+    },   
+    {
+        "yazi":"Akşam Namazı",
+        "baslangicsaat":"18:00",
+        "bitissaat":"18:10"
+    }, 
       {
         "yazi":"Teneffüs",
         "baslangicsaat":"18:10",
@@ -158,40 +167,42 @@
       {
         "yazi":"Akşam Yemeği",
         "baslangicsaat":"19:00",
-        "bitissaat":"19:30"
+        "bitissaat":"19:25"
     },  
       {
-        "yazi":"Namaza Hazırlık",
-        "baslangicsaat":"19:30",
+        "yazi":"Ara",
+        "baslangicsaat":"19:25",
         "bitissaat":"19:40"
-    },    {
-        "yazi":"Akşam Namazı",
-        "baslangicsaat":"19:40",
-        "bitissaat":"20:00"
-    },  
+    }, 
+     
       {
         "yazi":"Günün Manevi Programı",
-        "baslangicsaat":"20:00",
-        "bitissaat":"20:30"
-    },  
+        "baslangicsaat":"19:40",
+        "bitissaat":"20:10"
+    },
+      {
+        "yazi":"Etkinlik Saatine Hazırlık",
+        "baslangicsaat":"20:10",
+        "bitissaat":"20:20"
+    },
       {
         "yazi":"Etkinlik Saati-1",
-        "baslangicsaat":"20:30",
-        "bitissaat":"21:20"
+        "baslangicsaat":"20:20",
+        "bitissaat":"21:10"
     }, 
        {
         "yazi":"Namaza Hazırlık",
-        "baslangicsaat":"21:20",
-        "bitissaat":"21:30"
+        "baslangicsaat":"21:10",
+        "bitissaat":"21:20"
     },  
       {
         "yazi":"Yatsı Namazı",
-        "baslangicsaat":"21:30",
-        "bitissaat":"21:50"
+        "baslangicsaat":"21:20",
+        "bitissaat":"21:40"
     },  
       {
         "yazi":"Etkinlik Saati-2",
-        "baslangicsaat":"21:50",
+        "baslangicsaat":"21:40",
         "bitissaat":"22:50"
     },  
       {
@@ -202,6 +213,6 @@
        {
         "yazi":"Mecburi İstirahat",
         "baslangicsaat":"23:15",
-        "bitissaat":"05:00"
+        "bitissaat":"05:20"
     }
 ]  
