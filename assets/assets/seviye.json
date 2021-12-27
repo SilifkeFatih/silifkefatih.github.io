@@ -15,16 +15,6 @@
     "level": "S5"
   },
   {
-    "number": 21,
-    "name": "Mehmet Selman Kurşun",
-    "level": "S5"
-  },
-  {
-    "number": 24,
-    "name": "Mustafa Emre Kelleli",
-    "level": "S5"
-  },
-  {
     "number": 25,
     "name": "Osman Kozak",
     "level": "S5"
@@ -54,14 +44,14 @@
     "name": "Hakan Eynallı",
     "level": "S4"
   },
-  {
-    "number": 17,
-    "name": "Mehmet Cihan",
+    {
+    "number": 21,
+    "name": "Mehmet Selman Kurşun",
     "level": "S4"
   },
   {
-    "number": 20,
-    "name": "Mehmet Selim Söylemez",
+    "number": 24,
+    "name": "Mustafa Emre Kelleli",
     "level": "S4"
   },
   {
@@ -102,6 +92,16 @@
   {
     "number": 16,
     "name": "İbrahim Selim Şimsek",
+    "level": "S3"
+  },
+  {
+    "number": 17,
+    "name": "Mehmet Cihan",
+    "level": "S3"
+  },
+  {
+    "number": 20,
+    "name": "Mehmet Selim Söylemez",
     "level": "S3"
   },
   {
