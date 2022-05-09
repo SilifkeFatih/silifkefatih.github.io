@@ -1,27 +1,27 @@
 [
     {
     "yazi":"Kalkış",
-    "baslangicsaat":"04:45",
-    "bitissaat":"05:15"
+    "baslangicsaat":"03:45",
+    "bitissaat":"04:15"
     },
     {
         "yazi":"Hatim",
-        "baslangicsaat":"05:15",
-        "bitissaat":"05:30"
+        "baslangicsaat":"04:15",
+        "bitissaat":"04:30"
     },
     {
         "yazi":"Vazife",
-        "baslangicsaat":"05:30",
-        "bitissaat":"06:00"
+        "baslangicsaat":"04:30",
+        "bitissaat":"05:00"
     },
     {
         "yazi":"Sabah Namazı",
-        "baslangicsaat":"06:00",
-        "bitissaat":"06:15"
+        "baslangicsaat":"05:00",
+        "bitissaat":"05:15"
     },  
     {
         "yazi":"Sabah Uykusu",
-        "baslangicsaat":"06:15",
+        "baslangicsaat":"05:15",
         "bitissaat":"08:00"
     },   
      {
@@ -160,18 +160,18 @@
         "bitissaat":"19:10"
     },
     {
-        "yazi":"Namaza Hazırlık",
+        "yazi":"Programa Hazırlık",
         "baslangicsaat":"19:10",
-        "bitissaat":"19:25"
-    },   
+        "bitissaat":"19:30"
+    },
+    {
+        "yazi":"Günün Manevi Programı",
+        "baslangicsaat":"19:30",
+        "bitissaat":"20:00"
+    },
     {
         "yazi":"Akşam Namazı",
-        "baslangicsaat":"19:25",
-        "bitissaat":"19:40"
-    },
-      {
-        "yazi":"Günün Manevi Programı",
-        "baslangicsaat":"19:40",
+        "baslangicsaat":"20:00",
         "bitissaat":"20:10"
     },
       {
@@ -182,26 +182,26 @@
       {
         "yazi":"Etkinlik Saati-1",
         "baslangicsaat":"20:20",
-        "bitissaat":"21:10"
+        "bitissaat":"21:40"
     }, 
        {
         "yazi":"Namaza Hazırlık",
-        "baslangicsaat":"21:10",
-        "bitissaat":"21:20"
+        "baslangicsaat":"21:40",
+        "bitissaat":"21:50"
     },  
       {
         "yazi":"Yatsı Namazı",
-        "baslangicsaat":"21:20",
-        "bitissaat":"21:40"
+        "baslangicsaat":"21:50",
+        "bitissaat":"22:10"
     },  
       {
         "yazi":"Etkinlik Saati-2",
-        "baslangicsaat":"21:40",
-        "bitissaat":"22:50"
+        "baslangicsaat":"22:10",
+        "bitissaat":"23:00"
     },  
       {
         "yazi":"İstirahata Geçiş",
-        "baslangicsaat":"22:50",
+        "baslangicsaat":"23:00",
         "bitissaat":"23:15"
     }, 
        {
