@@ -6,7 +6,7 @@ const RESOURCES = {
   "assets/AssetManifest.json": "deb7d627bcea8d4badebdf746997fc80",
 "assets/assets/bosresim.png": "352e91c6055000096b7b4b88c836afe8",
 "assets/assets/hadis.png": "b910f4a767fefff8039f5ddaae2be997",
-"assets/assets/imam.png": "58fe3096995f62b73fd701fcdd8df553",
+"assets/assets/imam.png": "5817bdb8d550ddbdc34d919f367fb85d",
 "assets/assets/logo.png": "96bf5d6149f4e2a520c1e462c78ef4da",
 "assets/assets/muezzin.png": "1cd5c29a0feaf5c41229c318c8124993",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -23,9 +23,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "97f44d46d557392585083632ad13083b",
-"/": "97f44d46d557392585083632ad13083b",
-"main.dart.js": "9f51ed01994d51870a4e2113de452bf4",
+"index.html": "40efac8cd4ed1163fc21e47c77b45ff0",
+"/": "40efac8cd4ed1163fc21e47c77b45ff0",
+"main.dart.js": "134c76e8dda2652f5535c264fd457bff",
 "manifest.json": "c9c942493ea3d019aa7a174e153fea6b",
 "version.json": "bdeb17008bde11fe7d78ebc69406a5cc"
 };
