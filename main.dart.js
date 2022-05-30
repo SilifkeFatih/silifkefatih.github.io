@@ -34666,10 +34666,10 @@ fp(){var s=0,r=A.V(t.z),q=this,p,o
 var $async$fp=A.W(function(a,b){if(a===1)return A.S(b,r)
 while(true)switch(s){case 0:A.hd(B.d.T("object",20))
 s=2
-return A.P(A.qK(A.f3("https://dijitalpano.herokuapp.com/hadis")),$async$fp)
+return A.P(A.qK(A.f3("https://dijitalpano.trynetco.repl.co/hadis")),$async$fp)
 case 2:p=b
 s=3
-return A.P(A.qK(A.f3("https://dijitalpano.herokuapp.com/afis")),$async$fp)
+return A.P(A.qK(A.f3("https://dijitalpano.trynetco.repl.co/afis")),$async$fp)
 case 3:o=b
 if(p.b===200)q.am(new A.a3m(q,p,o))
 else A.hd("Error")
@@ -34715,7 +34715,7 @@ this.fp()},
 fp(){var s=0,r=A.V(t.z),q=this,p
 var $async$fp=A.W(function(a,b){if(a===1)return A.S(b,r)
 while(true)switch(s){case 0:s=2
-return A.P(A.qK(A.f3("https://dijitalpano.herokuapp.com/program")),$async$fp)
+return A.P(A.qK(A.f3("https://dijitalpano.trynetco.repl.co/program")),$async$fp)
 case 2:p=b
 if(p.b===200)q.am(new A.a3M(q,p))
 else throw A.c(A.c0("Failed to load album"))
@@ -34769,13 +34769,13 @@ return A.U($async$n9,r)},
 kD(){var s=0,r=A.V(t.z),q=this,p,o,n
 var $async$kD=A.W(function(a,b){if(a===1)return A.S(b,r)
 while(true)switch(s){case 0:s=2
-return A.P(A.qK(A.f3("https://dijitalpano.herokuapp.com/duyuru")),$async$kD)
+return A.P(A.qK(A.f3("https://dijitalpano.trynetco.repl.co/duyuru")),$async$kD)
 case 2:p=b
 s=3
-return A.P(A.qK(A.f3("https://dijitalpano.herokuapp.com/imam/"+B.i.h(A.acX(new A.b8(Date.now(),!1))))),$async$kD)
+return A.P(A.qK(A.f3("https://dijitalpano.trynetco.repl.co/imam/"+B.i.h(A.acX(new A.b8(Date.now(),!1))))),$async$kD)
 case 3:o=b
 s=4
-return A.P(A.qK(A.f3("https://dijitalpano.herokuapp.com/muezzin/"+B.i.h(A.acX(new A.b8(Date.now(),!1))))),$async$kD)
+return A.P(A.qK(A.f3("https://dijitalpano.trynetco.repl.co/muezzin/"+B.i.h(A.acX(new A.b8(Date.now(),!1))))),$async$kD)
 case 4:n=b
 if(p.b===200){A.hd(A.n2(A.mU(o.e).c.a.j(0,"charset")).ba(0,o.w))
 q.am(new A.a1g(q,p,o,n))}else A.hd("Error")
