@@ -38908,7 +38908,7 @@ I7(){A.ng(A.bK(0,0,10,0),t.z).bo(0,new A.ac6(this),t.P)},
 vM(a){var s=0,r=A.V(t.z),q=this
 var $async$vM=A.W(function(b,c){if(b===1)return A.S(c,r)
 while(true)switch(s){case 0:s=2
-return A.X(q.f.vN(0,"assets/sound.mp3",!0),$async$vM)
+return A.X(q.f.vN(0,"assets/assets/sound.mp3",!0),$async$vM)
 case 2:return A.T(null,r)}})
 return A.U($async$vM,r)},
 bz(){var s=0,r=A.V(t.z),q=this,p
